@@ -1,0 +1,7 @@
+{
+  "name": "moneo-web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
